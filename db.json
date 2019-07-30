@@ -1,0 +1,10 @@
+{
+  "features": [
+    {
+      "id": 1,
+      "name": "rt",
+      "enabledios": true,
+      "enableddroid": true
+    }
+  ]
+}
