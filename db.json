@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "rt",
-      "enabledios": true,
+      "enabledios": false,
       "enableddroid": true
     }
   ]
