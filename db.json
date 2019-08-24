@@ -4,7 +4,7 @@
       "id": 1,
       "name": "rt",
       "enabledios": false,
-      "enableddroid": false
+      "enableddroid": true
     }
   ]
 }
